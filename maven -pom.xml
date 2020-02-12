@@ -30,3 +30,4 @@
                         <url>http://192.168.33.11:8080/nexus/content/repositories/releases/</url>
                 </repository>
                 </distributionManagement>
+</project>
