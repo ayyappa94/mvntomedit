@@ -8,12 +8,8 @@
      |
           <server>
                 <id>deployment</id>
-                <username>tomcat</username>
-                <password>Welcome</password>
-         </server>
-     -->
-          <server>
-                <id>deployment</id>
                 <username>admin</username>
                 <password>admin123</password>
-        </server>
+         </server>
+     -->
+         
